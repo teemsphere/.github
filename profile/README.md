@@ -1,6 +1,6 @@
 ## :mega: Latest News
 
-- **2026-07-28** — v2 development is underway, a dev version of both the R package and solver will be available shortly. This will be a patch release due to breaking changes at the R package solver interface. Some highlights...
+- **2026-07-28** — v2 development is underway, a dev version of both the R package and solver will be available shortly. This will be a patch release due to breaking changes at the R package-solver interface. Some highlights...
   1. Additional solution methods to become available (Euler and RK)
   2. Condensation and backsolving implemented
   3. HSL routines optimized
