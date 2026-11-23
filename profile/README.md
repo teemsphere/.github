@@ -1,4 +1,5 @@
 ## :mega: Latest News
+- **2026-11-23** — teems 1.1.0 is on CRAN and teems-solver 1.2.1 is available to build.
 - **2026-10-22** — teems 1.0.1 is on CRAN. This patch addressed an edge case on MacOS related to Docker and looped model solves. Default console output from `ems_solve()` has also been made less verbose.
 - **2026-10-19** — teems 1.0.0 is on CRAN with teems-solver 1.1.0. Update the package and rebuild the solver image according to the new instructions.
 - **2026-09-10** — We're aiming for a new release by the end of the month, CRAN acceptance permitting. Additional HSL libraries will be required but we've simplified the build process. For the next version, you will need to acquire the [libHSL](https://licences.stfc.ac.uk/product/libhsl-2026_8_4) compilation of libraries (one download). 
